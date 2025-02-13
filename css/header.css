@@ -1,0 +1,14 @@
+.page-login{
+    padding: 10px;
+
+    background: black;
+    color: white;
+
+    text-align: center;
+}
+
+.page-login h1{
+    font-family: 'Montserrat';
+    font-size: 18px;
+    text-decoration: underline;
+}
