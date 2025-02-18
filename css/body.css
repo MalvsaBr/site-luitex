@@ -1,13 +1,29 @@
 
-.top-login{
+.page-inicial{
+	padding: 4rem 10%;
+
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+
+
+}
+
+
+
+.right-login{
 	padding: 20px;
 	background-color: red;
 
 	display: flex;
+	flex-direction: column;
 	align-items: center;
+	justify-content: space-between;
 }
 
 .img-logo-login img{
+	padding: 2rem;
+	padding-bottom: 3rem;
 	width: 300px;
 	min-height: 150px;
 	display: inline;	
@@ -17,9 +33,7 @@
 }
 
 .camp-login{
-	margin-left: 370px;
-
-	padding: 20px;
+	padding: 2rem;
 	background-color: white;
 	
 	border-radius: 20px;
